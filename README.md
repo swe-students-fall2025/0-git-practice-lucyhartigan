@@ -8,3 +8,6 @@ The article discusses a new method of 3D printing that identifies weak points in
 ## abdul's comments
 
 That is clever. I like how SustainaPrint's solution doesn't simply replace all regular 3D printing plastic. Instead, the approach selectively substitutes areas that experience less force with sustainable plastic, while keeping the parts that require durability unchanged.
+
+## Sydney's comments
+That's so cool! I find it really interesting to see how what we learn can be applied across different fields. As you mentioned, it's especially relevant given how important this is in today's climate.
